@@ -1,2 +1,2 @@
 # SemanaTec
-Archivo inicial Paint.py para actividad inicial de GitHub en SemanaTec
+Actividades de Semana Tec "El Arte de la Programacion".
